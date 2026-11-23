@@ -1,14 +1,4 @@
-# Dependencies
 node_modules/
-
-# Build outputs
-dist/
-build/
-
-# Environment variables
-.env
-.env.local
-
-# Logs and OS files
-*.log
-.DS_Store
+config/env/.env.staging
+config/env/.env.preprod
+config/env/.env.prod
